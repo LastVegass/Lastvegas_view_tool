@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LastvegasViewTool::Renderer.copyright 'Vikrot Brykalov', 'All rights reserved'
+```
 
 ## Development
 
