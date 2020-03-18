@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "lastvegas_view_tool/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "lastvegas_view_tool"
+  spec.name          = "lastvegasviewtool"
   spec.version       = LastvegasViewTool::VERSION
   spec.authors       = ["Last_Vegas"]
   spec.email         = ["AC-130a@yandex.ru"]
